@@ -21,6 +21,11 @@ __Let's see Resource Hierarchy in GCP:__
 
 ![resource_hierarchy](https://cloud.google.com/static/billing/docs/images/resource-hierarchy-overview.png)
 
+__Watch the video here:__
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V34lW-BdmYc)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+https://www.youtube.com/watch?v=V34lW-BdmYc
 __Domain__
 
 * Your company Domain is the primary identity of your organization and establishes your company's identity with Google services, including Google Cloud.
