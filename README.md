@@ -1,6 +1,15 @@
 # Terraform-edge
 Gear up yourself to start working with different Terraform providers
 
+__Basic Terraform Commands__
+
+1. terraform init
+2. terraform validate
+3. terraform plan
+4. terraform apply
+5. terraform destroy
+
+<hr>
 
 > ### This is open-source Project and Part HACKTOBERFEST 2022
 
